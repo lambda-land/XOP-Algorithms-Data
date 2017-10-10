@@ -1,2 +1,2 @@
 # XOP_Algorithms_Data
-Repository to hold data and source code for Explanation-Oriented Grounded Theory paper, SIGCSE 2018
+This repository holds the data and tool presented in [paper](link here!), accepted for SIGCSE 2018. Please contact [Jeffrey Young](mailto:youngjef@oregonstate.edu) or [Eric Walkingshaw](walkie@oregonstate.edu) with any questions or concerns
