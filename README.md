@@ -1,2 +1,2 @@
 # XOP_Algorithms_Data
-This repository holds the data and tool presented in [paper](link here!), accepted for SIGCSE 2018. Please contact [Jeffrey Young](mailto:youngjef@oregonstate.edu) or [Eric Walkingshaw](walkie@oregonstate.edu) with any questions or concerns
+This repository holds the data and tool presented in the [A Domain Analysis of Data Structure and Algorithm Explanations in the Wild](web.engr.oregonstate.edu/~walkiner/papers/sigcse18-algorithm-explanation-analysis.pdf), accepted for SIGCSE 2018. Please contact [Jeffrey Young](mailto:youngjef@oregonstate.edu) or [Eric Walkingshaw](walkie@oregonstate.edu) with any questions or concerns
