@@ -712,13 +712,13 @@ djk03 =
       , pop
     , aspect Property
       , move Definition
-      , move Comment [Role Caveat]
+      , move Comment @@ [Role Caveat]
       , move Conclusion
       , pop
     , aspect Property
       , move Definition @@ [Note Mathematics]
       , move InVivo
-      , move Description @@ [Note Caveat]
+      , move Description @@ [Role Caveat]
       , pop
     , pop
   , move Description @@ [Role Aside, Role Pedagogical]
